@@ -1,0 +1,25 @@
+{
+  "name": "isurus-git-branching",
+  "version": "1.0.0",
+  "description": "Branching allows us to collaborate on projects and help keep our code base stable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myronschippers/isurus-git-branching.git"
+  },
+  "author": "Myron R Schippers Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myronschippers/isurus-git-branching/issues"
+  },
+  "homepage": "https://github.com/myronschippers/isurus-git-branching#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "pg": "^7.12.1"
+  }
+}
