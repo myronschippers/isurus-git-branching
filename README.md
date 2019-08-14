@@ -105,8 +105,6 @@ o master
 ⍟ <- We are now here
 ```
 
-![Git Branching Diagram](images/git-branching-diagram.jpg)
-
 ### develop
 
 The **develop** branch gives us a safety net when working with teams. This is generally used as the starting point for group projects but for now we'll stick with **master**.
